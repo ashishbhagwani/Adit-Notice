@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADIT PORTAL</string>
+    <string name="hint_enroll">Enrollment Number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email_id">Email Id</string>
+    <string name="hint_mobile_no">Mobile no</string>
+    <string name="hint_password1">Confirm Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="nav_notice">Notice Board</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Click here to Login.</string>
+    <string name="welcome">Welcome to ADIT Portal</string>
+    <string name="btn_Logout">Logout</string>
+    <string name="title_activity_home_">ADIT PORTAL</string>
+    <string name="My_account">My Account</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="other_boards">Other Boards</string>
+    <string name="department_select">Show Notice Board</string>
+    <string name="enrollment_number">Enrollment No.:</string>
+    <string name="hide">Hide</string>
+    <string name="subject_code">Subject code :</string>
+    <string name="subject">Subject :</string>
+    <string name="start_filling_button">Start Filling Feedback Form</string>
+    <string name="faculty">Faculty :</string>
+    <string name="question1">1.    Objective and plan of the course were speicfied</string>
+    <string name="question2">2.    Coverage and depth of course plan was</string>
+    <string name="question3">3.    The Topics provided new knowledge</string>
+    <string name="question4">4.    Prescribed Reading material was available</string>
+    <string name="question5">5.    Topic beyond Syllabus was taught</string>
+    <string name="question6">6.    Guest lectures were arranged	</string>
+    <string name="question7">7.    In terms of organization, clarity and presentation of fundamental concepts,the lectures were</string>
+    <string name="question8">8.    Instructor\'s oral presentation in terms of audibility and articulation was</string>
+    <string name="question9">9.    Instructor\'s blackboard (or overhead) presentation in terms of organization and legibility was</string>
+    <string name="question10">10.    Encouragement given by instructor to think and reason, logically and objectivly was</string>
+    <string name="question11">11.    Instructor\'s response to the question asked in the class was</string>
+    <string name="question12">12.    Instructor\'s control over class</string>
+    <string name="question13">13.    The availability and approachability of the instructor outside class hours were</string>
+    <string name="question14">14.    The overall quality of teaching is this course was</string>
+    <string name="question15">15.    The test reflected the course plan</string>
+    <string name="question16">16.    Real understanding was tested</string>
+    <string name="question17">17.    Internal examination/Quiz were of appropriate level/length</string>
+    <string name="question18">18.    Answer scripts were promptly checked and returned</string>
+    <string name="question19">19.    The evaluation helped in understanding the subject better.</string>
+    <string name="pquestion1">1.    The Experiments provided new insightes</string>
+    <string name="pquestion2">2.    Methodical and systematic work was emphasized</string>
+    <string name="pquestion3">3.    Handouts/laboratory manuals were available in advance</string>
+    <string name="pquestion4">4.    Your preparation before going to laboratory was</string>
+    <string name="pquestion5">5.    Instructor\'s feedback on your report was prompt</string>
+    <string name="pquestion6">6.    Instructor\'s feedback on your report was useful</string>
+    <string name="pquestion7">7.    During the practical sessions, your interaction with the instructor was useful</string>
+    <string name="pquestion8">8.    Encouragment given by instructor to think and be creative was</string>
+    <string name="pquestion9">9.    The availability and approachability of the instructor outside class hours was(respond,if applicable)</string>
+    <string name="pquestion10">10.    Overall,the laboratory experience was</string>
+    <string-array name="departments">
+        <item>Computer Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Information &amp; Technology</item>
+        <item>Electronics &amp; Communication Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Automobile Engineering</item>
+        <item>Food Processing &amp; Technology</item>
+    </string-array>
+    <string-array name="years">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+    </string-array>
+    <string-array name="yearofstudy">
+        <item>Year of Study</item>
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="very_clearly">Very Clearly</string>
+    <string name="reasonably">Reasonably</string>
+    <string name="poorly">Poorly</string>
+    <string name="Excellent">Excellent</string>
+    <string name="average">Average</string>
+    <string name="poor">Poor</string>
+    <string name="mostly">Mostly</string>
+    <string name="often">Often</string>
+    <string name="hardly">Hardly</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="clear">Clear</string>
+    <string name="partially_understandable">Partially Understandable</string>
+    <string name="vague">Vague</string>
+    <string name="outstanding">Outstanding</string>
+    <string name="closely">Closely</string>
+    <string name="marginally">Marginally</string>
+    <string name="thourougly">Thourougly</string>
+    <string name="difficult">Difficult</string>
+    <string name="liberal">Liberal</string>
+    <string name="always">Always</string>
+    <string name="rarley">Rarely</string>
+    <string name="check_responses">Check all responses</string>
+    <string name="additional_comments">Additional Comments</string>
+    <string name="sometimes">Sometimes</string>
+    <string name="submit_button">Submit your feeback</string>
+    <string name="change_responses_button">Change your Responses</string>
+    <string name="show">show</string>
+</resources>

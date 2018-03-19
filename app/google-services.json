@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "936653060850",
+    "firebase_url": "https://adit-portal-c7eac.firebaseio.com",
+    "project_id": "adit-portal-c7eac",
+    "storage_bucket": "adit-portal-c7eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936653060850:android:e601eb185506735d",
+        "android_client_info": {
+          "package_name": "com.ashish.adit_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936653060850-fbbk6kdlji1hrrp6418116irgou5p6lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmM_ZhXM-GpmEnXL75FEBl_7D_Ququofs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

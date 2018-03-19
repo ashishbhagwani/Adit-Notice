@@ -1,0 +1,7 @@
+#Sat Feb 11 21:46:52 IST 2017
+base.0=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd52933b3719dbfdd1e162fdc4948d43ae4532ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0acdc8a40aa3aa8930a003c9586dd151a9d9870e\\classes.dex
+base.1=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0acdc8a40aa3aa8930a003c9586dd151a9d9870e
+file.0=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd52933b3719dbfdd1e162fdc4948d43ae4532ed\\classes.dex

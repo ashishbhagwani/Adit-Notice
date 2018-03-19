@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_previous.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_previous.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_next.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_cancel.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_notice.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_notice.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_info.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_info.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_other_notice.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_other_notice.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_edit.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_acntinfo.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_acntinfo.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\image_computer.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\image_computer.png"
+    },
+    {
+        "merged": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_user.png",
+        "source": "F:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_user.png"
+    }
+]

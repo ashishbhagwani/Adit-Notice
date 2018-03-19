@@ -1,0 +1,7 @@
+#Wed Feb 15 10:40:06 IST 2017
+base.0=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+base.1=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+file.0=F\:\\Documents\\be\\projects\\Adit Notice\\ADIT PORTAL 13\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes2.dex

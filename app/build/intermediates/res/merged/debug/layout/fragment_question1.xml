@@ -1,0 +1,94 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ashish.adit_portal.theory_question_fragments.Question1"
+    android:background="@android:color/white"
+    android:theme="@style/AppTheme">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/previous"
+            android:textColor="@android:color/white"
+            android:id="@+id/previous"
+            />
+         <Button
+             android:layout_width="60dp"
+             android:layout_height="60dp"
+             android:layout_alignParentBottom="true"
+             android:layout_alignParentEnd="true"
+             android:background="@drawable/next"
+             android:textColor="@android:color/white"
+             android:id="@+id/next" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:id="@+id/questionpanel"
+            android:background="@drawable/borderbox"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+             <TextView
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/Question"
+                 android:layout_marginTop="10dp"
+                 android:textSize="18sp"
+                 tools:text=" 1    Objectives and plan of the course were specified"/>
+
+            <RadioGroup
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                    android:id="@+id/options"
+                    android:layout_below="@+id/Question"
+                    android:layout_alignParentStart="true">
+               <RadioButton
+                   tools:text="Radio Button"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="10dp"
+                   android:id="@+id/firstradioButton"
+                   android:textSize="15sp" />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/secondradioButton"
+                    android:textSize="15sp" />
+               <RadioButton
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="5dp"
+                   android:id="@+id/thirdradioButton"
+                   android:textSize="15sp" />
+            </RadioGroup>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_below="@id/options"
+                android:layout_marginTop="20dp"/>
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/questioncounter"
+            android:layout_above="@id/questionpanel"
+            android:layout_marginBottom="60dp"
+            android:textSize="30sp"
+            tools:text="3 Out of 19"
+            android:gravity="center"
+            />
+    </RelativeLayout>
+</FrameLayout>

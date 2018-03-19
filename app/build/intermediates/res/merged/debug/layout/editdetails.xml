@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimary"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        >
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:elevation="3dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/white"
+            android:hint="@string/hint_name"
+            android:padding="10dp"
+            android:inputType="textCapWords"
+            android:textColor="@color/input_register"
+            android:textColorHint="@color/input_register_hint"
+            android:maxLines="1" />
+
+        <Spinner
+            android:id="@+id/yearofstudy"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:elevation="3dp"
+            android:entries="@array/yearofstudy"
+            android:layout_marginBottom="10dp"
+            android:theme="@style/AppTheme"
+            android:background="@color/white"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            />
+
+        <EditText
+            android:id="@+id/email_id"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:elevation="3dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/white"
+            android:hint="@string/hint_email_id"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:textColor="@color/input_register"
+            android:textColorHint="@color/input_register_hint"
+            android:maxLines="1" />
+        <EditText
+            android:id="@+id/Mobile_No"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:elevation="3dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/white"
+            android:hint="@string/hint_mobile_no"
+            android:inputType="number"
+            android:maxLength="10"
+            android:padding="10dp"
+            android:textColor="@color/input_register"
+            android:textColorHint="@color/input_register_hint"
+            android:maxLines="1" />
+
+        <!-- Login Button -->
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:elevation="3dp"
+            android:layout_marginTop="20dip"
+            android:background="#edcf0a"
+            android:text="Submit Changes"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3101e4a9ec35a0876e49d02f9165d81f9e13a54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_28cec97dd26d2ac59162827c2056d9122524ec1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_9f2eae3828f1b66d3ceb47f1828cb1491a507247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d7c742c9a4d2064a6805967039742db12bbc4c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_b397e93ea8d0f1f28baa064156465168955772b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_4f8270b5e8c2ec55269dc67e1633ef749b3c3e02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_5fa4829ca79b98f3fb43292155b3a9851984b179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="12d27efb369e01c5da69f7f89954e455fa7395c2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91ca4d5226980a56ab378c219aea2f4b76fb0adc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02f6498def34988a651960e616e59c193e99d465">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0acdc8a40aa3aa8930a003c9586dd151a9d9870e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_2960243859803a7d393c60e522552a8b349ad198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c24e3eaae193c1b2cfebdf0b945f3c77a4cc8864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2aedf9a4dd8d211d6bd7cc7942e22a76745a5047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_2d04b1743b09e4b40b439f4707232dbf7552721d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_96b5bfb49c2c019621d5bcf5273d0a725495d921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_e9c0c61090b2ea265c67fbf048edb0e5ce128ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_9203a4ba00d934fe45203baa2cf12edd242bf9aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_45faa206b6e48ee6b2aa3168994784045e290a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a108160af32f4c452eb2b72d9e0bc9e5e4467e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d9aaae779636eaed1303b79ed494035e225b4ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_39e829323ad8a1bb2af1d279c1b567f09cade307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5d0d57f09468a31ad79e403ec1a73b7b99e76c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_48c5e5a6b07cd531cd143ab68c7f7fbaeb7d2021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="61393cb4ed6b5d78c4218c7e0d12b0269a14f8a3">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f7179dda1d72b6bba8533b543166d09740fbdc48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_67ed4d7ec8b387d66044b5a7b537e65a63e3ce67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_8f683b73d7814d7cbc8f04f91b24257ea96cbe9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_7f516f3480662b55600f4ca73f8358204db4bb98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_425de675358bc173d6d74fc3983c3f54a53ead6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0b76a168e0be6a387757c7262794e72358627857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_a087dfef6dc653e1b1ca196cc2f9365e24906ea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_afc7a701e80061c50fefa772e27132ec52cc5a12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6edc15f8b50a878f3111861cdf557e22e1c9c122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_49245ba48a26dbade4ad9f3f314ee735029a6187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_0547ab40214177158a7a8c88227827c422ca540e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_ceee3cd36c5207dbbbecf4c73de41e36725cf9c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7f5d8b9753f05fe73f9acaee1ff4a0d11cbbb45a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_c2e9468d79b7b988b2a8c0d67dc90600ba0f64e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_ca74e2e101bc44c690b83992c15c5ad5278088da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_f3e31041f8b7344b7de9efc8f566761426ec9903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_e7509d2d3a322a1c3537690847a99e19ca5b78a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_b48b3789e5936e8effc5cdc1c62e3cff4024e3ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_42b9ab74cd9256a225c48c7c4db52adeac10a8c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_1db8cddb54add846fc72d891926f5b7ec87aad57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_464f18d53b63cb7de1a5700e2c598f20da7d6c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_c4485f8d86b2e80726b3ced87e7a4eb53369e5d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_8b142f29a10f633c6b20edc9de911d249c5c9742\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_38fd414e25ad5f0e44a76a7862a0bb3f2da04b9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_758252d025617fc9f00fb0c68851aad13df0f6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_509342ae44eac98eef27f9f96a01cdfed68b7a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_c2e9468d79b7b988b2a8c0d67dc90600ba0f64e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e2b148053c591a1ecbe8bdf94cf1fc03fa58001c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a78092d31c617a711d78a59cbbfdb0e59e938a96">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fdda0961b4020ae57bddfc48138370fe0d3c7bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_206e15bc20bffb4f8a2f3235785ba0eb94865aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_43d447417d13cb65e5697820ebdd8f7439431ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_25347f7324ab2ced551f4480ff23d4381251e5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a48d98cdbb61735df77c48609f2b96deb4cd0067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12d27efb369e01c5da69f7f89954e455fa7395c2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91ca4d5226980a56ab378c219aea2f4b76fb0adc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ede34e99e50f45dddc1afd8d0b40a47fc8b0a664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_140055ffc87e8068516a9804f1532828066dd29c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_37207408915d6beb519400097da3cd0ed9f0a60a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_5603e99d9f28a19d7bbc08f330e87c222d47af24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_fea813a2ec8395eccf0759ae3ebc15feff01ac97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9bfb3b034cae0ca9709c4b2b25d0700b4b0c35f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_afc7a701e80061c50fefa772e27132ec52cc5a12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_43d447417d13cb65e5697820ebdd8f7439431ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_fd3de8664533b3791f3b7be812881a16c04264c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8d5635a425eb87f4f24f541177bbdabf0f137791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_728692035ab736ebc51a9125d759ffaaf6313680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f82ced4bff993ef94f98a9e279285a135c56a1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2b4ae8415fdd6d1365e2ea58f8723aa8534a9afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_6b0083cef505f47567003ae9be19304b52fb75e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ef3178e51e250f48aafdd48aa59ad611dce4f178\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_7675995db5a4600949fa1e32d38ccd4704942189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_bc5d532f3ed904ca34b52bea4348a12c16a68a3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_32d4ae0c2f64e851811de188e1c64279b3c5e76c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_04ec3be5cd85bf63660515a463443da3f179745a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d9aaae779636eaed1303b79ed494035e225b4ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_bb012313cc7e6c6fb9432786b921f42054cddca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_49245ba48a26dbade4ad9f3f314ee735029a6187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_9c9a9342d95025a71b4a1339c1a148ef9df1a6a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_620bbf7cf0dc1b01f44993c41e04289cc66901bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_972b756e0b1673c27951a0fce206227fcf4131a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_493990b7a725d1a56b7a6d3daf98646db06c71bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b2e834295266b5532d78112d13fb0f48aa380b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_3791e6306f3eb04b9fe944908e3b4f8807b62bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_6bedc831e5a712b0792e94e43d5ee65303a16087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e1348db9f558ab4da49dd416cb5ade4181f4c926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_99fefb99003aae58d1c230b1b40c02335dd0155d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_a6330b7e4fa194fcf08f8ffd0e369338352dd3c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_6e3efc2d40ee9ca73255b8fe3dbf36843ea9809a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_e705106235a6eded00e34541ed04f621107e8364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_1f71215ef513b31f2a8b0a76f6c2770ebb8014aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_71e60a22e20b5c71204c53c2c3110b0aa2ea93b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_99c48967b605f40687ccb24905173d6ddf9b6708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_963cfec7d88ecb433ecc3561b3e2105ead526c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_99a97a06770657b47b6705e0a48f00d01b494baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_3e6a56341fa625747ef7f446a577a1bf1e72a485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_94f40421d8d1f10fc9c2dce49f2f34a620e816da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_c1116e4727350f99cf600e4551d4a671381bd04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_35911145f1c90b2aa67a3669063d45e24f02d32f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_a76415eb4850b802676fbac63506182491357be0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9bfb3b034cae0ca9709c4b2b25d0700b4b0c35f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15a3e65c92d3cde64c725dba8d590a1123d2d213">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.2.0_e407b00241274e0eba876f6a489d33d53c409848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc247257de0124786ba1cabd88ccb0bc1261d616">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f3a3bb8b84ed19b0233e6c77f2eb0f3c0de70dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_6b489d36750a31581ddf4eaf51eb5f822ac7dd8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7a782f99383acd6f785cef625c8583b4debf8fa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_94b45138ff291409665dd2808dfe0ca43c481021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_2bc16c1952096e689f02376ab15142429af9fe7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_17fcdf081dc95a1046a3672d37d6f2c6f6a91dd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_54916c285939745b427c2838726335f43bfe1d8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_1eed559664a060dd050c9ca82767a4cc36b77f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_9913a097d2729b706041252698377505ab90fe87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_f2a6066357413580e717c28454092b0562bb29af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_493990b7a725d1a56b7a6d3daf98646db06c71bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_cf3e3aec1c67aa4c7d31c6ad20a30fd12f73a654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_2655b6803d17bb33519a68688bbbbaaaeeadd46a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_7f2eb5abb22f18b873cd2bb1af7802ffad95f177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_036e0fc7c2f80d6897f1d53ed48903a9ea2263d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_04ec3be5cd85bf63660515a463443da3f179745a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ff2ba4b750f591a6e32930ee6af8f7562250f710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_42e81b9ce54758e8356f00f119a7f23d6760fe13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_3486a69536b694b2146aeeb8643c46565b8e577f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f8039f90165f4dba13b66794db249145a4a285d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_76a3fd77789c494311ba9d2d89a040695e2a207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_82e54a77b1319e86599c8b4301c24e26bebf00b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_ce6c974023da0ff61fb4de1eab31c5e7f78da1f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_2a1bcadd39343622cb1875f8b65678b5322b9551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_46fc67f3d1b2a8cc0db48836c5b0e850d61fc3bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_972b756e0b1673c27951a0fce206227fcf4131a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_1f71215ef513b31f2a8b0a76f6c2770ebb8014aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_efe207a1740970fd86375a1cc5f5c7657204db0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_c0faff18a20827559d2ffc5cd440c241f66e77b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_99afd073b568b25afc0ff5b5eff9024ad3bcb3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_23830ac7afa3985d32547d6fa50544d5248ee143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_c5d045d1634ab5956cc10196bdf791d800f4c6bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_e674e7684f555d9e563da51e8234f7ffa5d75843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_b4d2bc9f1c77e97c0f625c86021c7800346d564c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0e75b040b614b3d192d145f89e34a396cc3b22dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_76a3fd77789c494311ba9d2d89a040695e2a207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_e7a6315ed055fd5ea23edb55cffda1178db8c4b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_c959a0fb1fd8717d7de73454a3b5f8a9af7de308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_e705106235a6eded00e34541ed04f621107e8364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6c424804353e24af2bbd7d3c279a722eb1dcedcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b7df2fe99394618331a45283dba750bd2034fe78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_40b42434dd8dfde9c08c6bdd2a967f755d959193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_edf30524d622f62dfed321bd7f96dbef5a65d4b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_0a6f0de5273d5b440b6cf35bdbccf68725d0be43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_d42a885f79ba07ab75e55b566c8fe2a36af9740b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_56d97f29309992be6e8cbc9c168c41a65aae75dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9a21262e3524b417151891359de4418592a5a666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_0ba12e84ba6f23c6ad08d7b536918137617d6200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_cd5b3298c4fa02c235f0a1f43b905074cb8033ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8d5635a425eb87f4f24f541177bbdabf0f137791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_3bf0383efa9db7dbb9a3000d7d9ee27716eab617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_7f2eb5abb22f18b873cd2bb1af7802ffad95f177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e4caa0a3c0fdef95f6cd73128965a4863e1a6c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_cf44e22949a56106bced2bc771bc572dd872f490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_aebe1f45f192d5c88449a8cfb8dd594700d37f8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_44d135d9546a421175a204a169bc42556088b259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_e045ecd07d39c4af38f9351b71c565fe6e0a9997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_963cfec7d88ecb433ecc3561b3e2105ead526c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_9b6c4ed213974291e6163ab490492df7161ec2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2dbeab2e3690d4da96d1f09aa3546756b24a2140\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_46b23d2b0da33cca28eb440a0f69fa194713b5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_07945caf33092aac7a34d7f1c80b34d2a640cb87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6a1c07ffe30fef78c2bc3a084fb09d103353bf7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d047a0fc1ca217acb6596c3cd9c27d7305f074f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6c424804353e24af2bbd7d3c279a722eb1dcedcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_322b21bd39242cb36510159d92ad1134cd2ba1cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_ee475d9982555df61fdeb857ed3c4f5dfb029a3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_30860630ed8d5ad74c1fbb67da9af8bc8e1eec36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ef3178e51e250f48aafdd48aa59ad611dce4f178\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_37ee9915488069328576ea24892a9688dc19c453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_d302957f3651d2ee507ad2c497a771706b24addf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_7ecdca9d776a0c17493ca9ae0c8e1d506ae0587b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7f5055016d7084937605a780397fbfc58aaadc26">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d0d10bdf03ff8c7e7bcd08dbd5b7575b22ff681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_f75d94ca4ccf7f67687e9b5666ae34eded79caf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_803e94e53bc383a20a535110a76d6a4770235dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_b515a2d4ba937d801b372956ddc3eee50aaeb0f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_464f18d53b63cb7de1a5700e2c598f20da7d6c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_7db8409228db369fd760d82f55687905784aaaca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_8ff8136dc0dbb3d4e00474d81a3c18f071052ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_b51ef002c6505f392535015978e2a58da4727524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_49b390adf14113808368f56eac0fbe2398c36f3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_acae4f445891261b0499d1f3e934262fee828a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_e35bbfd35fa90ffc1f7fc004b052d25d66880e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_9b6c4ed213974291e6163ab490492df7161ec2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_ee475d9982555df61fdeb857ed3c4f5dfb029a3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_30860630ed8d5ad74c1fbb67da9af8bc8e1eec36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_8e4fbdcf3e5fd8446221da9db6569b3aa515d64e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_5693a9bfbeaba0c19b33b50e0b834c4b88db27a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a48d98cdbb61735df77c48609f2b96deb4cd0067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_54653d631f3731f01ec2f14c3363397c5e6af89a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_f8a184727a39046bf9d3515ef6d680ad8b117c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_559dd84e01ceb3531313bc2f709660402fb8ee01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_14c48e6fb83d97453907810a1e4e11472862a2ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_976d3573d376919e1b40b3db688d081678dc6b7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_8d4f70ee979aae7fe8d892844be35e16067402c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f57f473f1332450236efeb27c527322017e1466">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d0d10bdf03ff8c7e7bcd08dbd5b7575b22ff681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_c66f282f66763e0bd78af495c6f27ead14ed5dee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_62a0602ad7d4d82f81714e0a281701ecdeb28fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_6cdbcb3eb29c3ffdc1246845419b9740bc314465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f82ced4bff993ef94f98a9e279285a135c56a1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_d607feb3d131ad996c7b100cccd032531d9c9e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_b8c4f1ceb67dc944ff5e7bc249f56756e14dc864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_ad83327535400eaff0a1a866aaf8f9a4b0f25f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9a21262e3524b417151891359de4418592a5a666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_cb64597b922ea95cd38ed0c45450db147e2ece96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9d55081c11817c498a974a54b78f11382f9ca1af">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b04ebe4911f84e9b40738b5da623aca5e3c5052f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_119af94097f6aae241b6aea742bab1302d724d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15a3e65c92d3cde64c725dba8d590a1123d2d213">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.2.0_0aee3eb2e98677614b27472e36b368d0991ff3ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f0c57cea129b27ef7dcdc35a12a71e4caa09bbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_3d9aa248afd8008418c7357e8e563c046d80f117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_77989060c3464b2ade66729500c3098913184560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_995d24793fc188b007146e8e039d34a5807e68c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_f925cfcb0b0872da9602013c146c7f662328fe78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_c959a0fb1fd8717d7de73454a3b5f8a9af7de308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_5e0934c86ce03dfa57c5e20a8da285e93bfb2c91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_da92045a23202d0e43105d99441efc2acdd6a39c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_610829b83c872cb80f5b2d1501b758078b2f5fe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_b4d2bc9f1c77e97c0f625c86021c7800346d564c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_610829b83c872cb80f5b2d1501b758078b2f5fe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b1ae1a51880738575ca6f498884ca5b44a1821f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_a67f32a6e066201d4fea9e5354af9659e1e85a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0b76a168e0be6a387757c7262794e72358627857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_4b36154168bed90903919a33f5aaa37fe52926fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_48c5e5a6b07cd531cd143ab68c7f7fbaeb7d2021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_1fe10d4f17e22c291b8a013aad88dcc247636aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_3dbfd19670b4f208cb94e0a1190954f4c6f1f801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_38e19ee96a79d963750fbe49aabb6f752b0dc3ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_679e26293e9304af35d0cf86f1f886ce83510dfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_5912efca8dc359adb83f2c5ac304af565189197c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_efe3a7b16640bcc3aff17f37e78d50d556a330f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_559dd84e01ceb3531313bc2f709660402fb8ee01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_ae48f031791e8b26faab2f4803d4625c10fa68ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ashis\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.2.0\5e4042f9e0d39e0d01d4a8661d01e24995b2cbef\realm-annotations-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e4042f9e0d39e0d01d4a8661d01e24995b2cbef">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 10\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-1.2.0_d87811daef44ccf6043cad323628c914d2b4800f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_8802b6c0a5b67f020acdcc053684d8bc3c3f2045\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_dac5f5416aed4dea5c7f586248d0ce2625ef3cc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c46bff3015bd941385b3b7045d7deac6f63de317">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd52933b3719dbfdd1e162fdc4948d43ae4532ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f8922c2f9bdc870144533e5f07de8bc538776ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_54df28e4c7a55e599d006b4554d4ddc386f0d454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_535b63c779c31402ae961b26a79ba4af473181d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_99f659b94d6b53b19b02c587428f1c9704a8f303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 13\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_c6fdfdafbd97457b2d8de5b8cd1eb779cf219530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_1ea702cfd21255d28ea8d6e96797bf461bc72ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="F:\Documents\be\projects\Adit Notice\ADIT PORTAL 12\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_38e19ee96a79d963750fbe49aabb6f752b0dc3ff\classes.dex" />
+    </item>
+
+</items>

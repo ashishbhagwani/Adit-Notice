@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape android:shape="rectangle">
+            <size android:height="15dp" android:width="15dp"/>
+            <solid android:color="@color/colorPrimary"/>
+            <corners android:topRightRadius="85dp" />
+        </shape>
+    </item>
+    <item android:right="20dp" android:top="20dp" android:drawable="@mipmap/ic_previous"/>
+
+</layer-list>
+
+
